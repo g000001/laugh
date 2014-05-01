@@ -1,0 +1,3 @@
+* LIBDOC;LAUGH GSB3
+
+MacLISP: libdoc;laugh gsb3 (ported to Common Lisp)
